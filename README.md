@@ -1,12 +1,8 @@
-### WEB HERBAL PLANT
-<center>
-  <p>Website ini untuk pembelajaran membuat website dengan teman saya</p>
-</center>
+# WEB HERBAL PLANT
+<p>Website ini untuk pembelajaran membuat website dengan teman saya</p>
 
-## AUTHOR
-<center>
-  <ol>
+### AUTHOR
+<ol>
     <li><a href="https://www.instagram.com/ajnrji_/">Jiung</a>.</li>
-    <li><a href="https://www.instagram.com/nuug29_/">Agun</a>.</li>
+    <li><a href="https://www.instagram.com/nuug29_/">Agung</a>.</li>
   </ol>
-</center>

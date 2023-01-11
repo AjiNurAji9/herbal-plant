@@ -1,0 +1,1 @@
+kalau mau pake framework kayak bootstrap atau tailwind kayak gitu download aja trus bikin foldernya disini.
